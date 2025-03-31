@@ -34,7 +34,6 @@ This is an open community effort. If you’re passionate about AI and want to he
 
 AI’s future belongs to those who engage with it. Let’s make sure the next generation is ready.
 
+--- 
 
-
-
-#### This content written in collaboration with ChatGPT. Tell me this is 'slop'. ;) 
+This content written in collaboration with ChatGPT. Tell me this is 'slop'. ;) 
