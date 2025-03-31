@@ -33,3 +33,8 @@ This is an open community effort. If you’re passionate about AI and want to he
     Reach out if you’re interested in speaking or mentoring
 
 AI’s future belongs to those who engage with it. Let’s make sure the next generation is ready.
+
+
+
+
+This content written in collaboration with ChatGPT. Tell me this is 'slop'. ;) 
